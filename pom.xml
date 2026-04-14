@@ -16,6 +16,7 @@
     <modules>
         <module>logic-fundamentals</module>
         <module>oop-introduction</module>
+        <module>memory-arrays-collections</module>
     </modules>
 
     <properties>
