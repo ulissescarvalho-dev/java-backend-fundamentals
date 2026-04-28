@@ -18,6 +18,7 @@
         <module>oop-introduction</module>
         <module>memory-arrays-collections</module>
         <module>date-time</module>
+        <module>enums-and-composition</module>
     </modules>
 
     <properties>
