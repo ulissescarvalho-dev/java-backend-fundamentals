@@ -70,7 +70,7 @@ A separação em módulos facilita a organização dos estudos e o isolamento de
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/java-backend-fundamentals.git
+git clone https://github.com/ulissescarvalho-dev/java-backend-fundamentals
 cd java-backend-fundamentals
 ```
 
