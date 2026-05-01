@@ -14,11 +14,11 @@
     <description>Projeto de estudos focado em fundamentos de Java e POO</description>
 
     <modules>
-        <module>logic-fundamentals</module>
-        <module>oop-introduction</module>
-        <module>memory-arrays-collections</module>
-        <module>date-time</module>
-        <module>enums-and-composition</module>
+        <module>01-logic-fundamentals</module>
+        <module>02-oop-introduction</module>
+        <module>03-memory-arrays-collections</module>
+        <module>04-date-time</module>
+        <module>05-enums-and-composition</module>
     </modules>
 
     <properties>
