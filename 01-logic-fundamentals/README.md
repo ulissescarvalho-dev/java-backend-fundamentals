@@ -1,8 +1,8 @@
-# 🧩 Módulo: Fundamentos de Lógica de Programação
+#  Módulo: Fundamentos de Lógica de Programação
 
 Este módulo reúne a base estrutural do meu aprendizado em Java. O foco foi consolidar o raciocínio lógico através das três estruturas fundamentais de qualquer algoritmo.
 
-## 💻 Tópicos Estudados:
+##  Tópicos Estudados:
 
 ### 1. Estrutura Sequencial
 - Entrada e saída de dados via console.
@@ -19,7 +19,7 @@ Este módulo reúne a base estrutural do meu aprendizado em Java. O foco foi con
 - Implementação de laços `for` (para iterações definidas).
 - Teste de mesa e controle de variáveis de contagem/acumulação.
 
-## 🛠️ Tecnologias e Ferramentas:
+##  Tecnologias e Ferramentas:
 - **Java 17**
 - **Scanner API** (para interação com o usuário)
 - **Maven** (Gerenciamento de módulos)

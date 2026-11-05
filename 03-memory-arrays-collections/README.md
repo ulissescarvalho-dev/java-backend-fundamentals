@@ -1,8 +1,8 @@
-# 🧠 Módulo: Memória, Vetores e Listas
+#  Módulo: Memória, Vetores e Listas
 
 Este módulo explora como o Java gerencia a alocação de objetos e primitivos, além de aprofundar o uso de estruturas de dados lineares e bidimensionais.
 
-## 💻 Tópicos Estudados:
+##  Tópicos Estudados:
 
 ### 1. Arrays (Vetores)
 - Manipulação de estruturas de tamanho fixo e indexadas.
@@ -19,7 +19,7 @@ Este módulo explora como o Java gerencia a alocação de objetos e primitivos, 
 - Lógica de percorrimento em linha e coluna.
 - Identificação de diagonais (principal e secundária) e manipulação de elementos adjacentes.
 
-## 🚀 Conceitos Técnicos Aplicados:
+##  Conceitos Técnicos Aplicados:
 - **Alocação de Memória:** Diferença entre *Stack* (pilha) e *Heap* (montão).
 - **Wrapper Classes:** Uso de `Integer`, `Double`, etc., para permitir o uso de tipos primitivos em coleções.
 - **Boxing e Unboxing:** O processo de conversão entre tipos primitivos e seus respectivos objetos wrapper.

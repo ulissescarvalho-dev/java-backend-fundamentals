@@ -27,7 +27,7 @@ Este repositório foi criado para:
 
 ---
 
-## 🏗️Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto segue o padrão do Maven e está organizado em módulos separados por tipo de conteúdo estudado:
 
@@ -65,7 +65,7 @@ A separação em módulos facilita a organização dos estudos e o isolamento de
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 Clone o repositório:
 
@@ -87,7 +87,7 @@ cd oop-introduction
 mvn exec:java -Dexec.mainClass="com.ulisses.bank.Main"
 ```
 
-> ⚠️ Ajuste o nome da classe conforme o exercício que deseja executar.
+>  Ajuste o nome da classe conforme o exercício que deseja executar.
 
 ---
 

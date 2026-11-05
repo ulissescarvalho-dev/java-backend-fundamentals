@@ -1,8 +1,8 @@
-# 🏗️ Módulo: Introdução à Programação Orientada a Objetos (POO)
+# 🏗️Módulo: Introdução à Programação Orientada a Objetos (POO)
 
 Este módulo marca a transição da programação estruturada para o paradigma de Orientação a Objetos. O foco foi aprender a modelar sistemas reais através de classes, garantindo o reaproveitamento de código e a segurança dos dados.
 
-## 💻 Tópicos Estudados:
+##  Tópicos Estudados:
 
 ### 1. Fundamentos de POO
 - **Classes e Atributos:** Criação de moldes para representar entidades (ex: Triângulo, Produto).
@@ -20,7 +20,7 @@ Este módulo marca a transição da programação estruturada para o paradigma d
 - **Getters e Setters:** Métodos controlados para acessar e modificar atributos privados.
 - **Modificadores de Acesso:** Definição de visibilidade (`private`, `public`, `protected`, `default`).
 
-## 🚀 Conceitos Técnicos Aplicados:
+##  Conceitos Técnicos Aplicados:
 - **Resolução de problemas sem vs. com POO:** Comparação prática de como a POO reduz a repetição de código.
 - **Gerenciamento de Estado:** Controle de estoque e atualizações de produtos através de métodos internos.
 
