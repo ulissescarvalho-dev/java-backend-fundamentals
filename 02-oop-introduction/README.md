@@ -1,4 +1,4 @@
-# 🏗️Módulo: Introdução à Programação Orientada a Objetos (POO)
+#  Módulo: Introdução à Programação Orientada a Objetos (POO)
 
 Este módulo marca a transição da programação estruturada para o paradigma de Orientação a Objetos. O foco foi aprender a modelar sistemas reais através de classes, garantindo o reaproveitamento de código e a segurança dos dados.
 
